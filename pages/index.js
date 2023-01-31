@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.container}>
-          <h1>chris chung</h1>
+          <h1>in place</h1>
           <text className={styles.statement}>i accept my work as imperfect.</text>
           <text className={styles.statement}>i seek to let my process breathe.</text>
           <text className={styles.statement}>i curate my perspective of the world into ideas and form.</text>
